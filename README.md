@@ -8,3 +8,7 @@ Step 3: chainlit run model.py -w <br />
 Step 4: type create my chart <br />
 Step 5: input your birth date
  
+# Developers
+https://github.com/aygul0790, Ln: https://www.linkedin.com/in/aygul-zagidullina-phd-2307/ <br />
+https://github.com/7flash <br />
+https://www.linkedin.com/in/ole-petter-hoeie-0043742/ <br />
